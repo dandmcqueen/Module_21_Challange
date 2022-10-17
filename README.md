@@ -36,6 +36,11 @@ Compile and deploy both files
 The following video demonstrates how to establish an account that will receive payment for newly minted Kasei coin.  Both Crowdsale and Coin contracts get addresses assigned.  Ethereum is payed from 2 separate accounts with Kasie coin then transfered.  Overall amount of minted coin is verified along with the balances of each account.
 
 <br/>
+
+
+
+
+
 ---
 
 ## Contributors
