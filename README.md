@@ -40,6 +40,10 @@ The following video demonstrates how to establish an account that will receive p
 
 
 
+https://user-images.githubusercontent.com/104316958/196305698-f69c552a-6175-473d-9b23-059b01612b18.mp4
+
+
+
 
 ---
 
